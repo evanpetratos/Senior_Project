@@ -9,6 +9,5 @@ Segmentation is a well-studied area of research for speech, but the segmentation
 
 <br>
 
-Link to project file in Bard's Digital Commons:<br>
-https://digitalcommons.bard.edu/senproj_f2020/23/
+See "Senior Project.pdf" to view the entire project.
 
